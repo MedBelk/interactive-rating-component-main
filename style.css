@@ -129,7 +129,9 @@ a:hover {
   text-align: center;
   color: rgb(252, 118, 19);
   border: 2px transparent;
-
+  width: fit-content;
+  padding: 2px 8px;
+  margin: auto;
   border-radius: 10px;
   background-color: #7281972a;
 }
