@@ -82,7 +82,8 @@ a:hover {
   height: 45px;
   width: 45px;
 }
-button {
+
+.button {
   background-color: rgb(252, 118, 19);
   border: transparent;
   border-radius: 25px;
@@ -94,7 +95,7 @@ button {
   text-align: center;
   cursor: pointer;
 }
-button:hover {
+.button:hover {
   background-color: rgb(255, 233, 205);
   border: transparent;
   border-radius: 25px;
